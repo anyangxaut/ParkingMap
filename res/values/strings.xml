@@ -5,5 +5,54 @@
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
     <string name="title_activity_qrcode">QRcodeActivity</string>
+    
+    <string name="notification_subtitle">Counting your steps</string>
+
+    <string name="started">Pedometer started.</string>
+    <string name="stopped">Pedometer stopped.</string>
+
+    <string name="steps">steps</string>
+    
+    <string name="centimeters">centimeters</string>
+
+    <string name="pause">Pause</string>
+    <string name="resume">Resume</string>
+    <string name="reset">Reset</string>
+    
+    <!-- Settings -->
+    <string name="settings">Settings</string>
+    <string name="activity_settings">Pedometer Settings</string>
+    <string name="steps_settings_title">Basic Settings</string>
+    <string name="sensitivity_setting">Sensitivity</string>
+    <string name="sensitivity_setting_details">Calibrate the step detector</string>
+    <string name="sensitivity_setting_title">Select sensitivity level</string>
+    <string name="extra_high">extra high</string>
+    <string name="very_high">very high</string>
+    <string name="high">high</string>
+    <string name="higher">higher</string>
+    <string name="medium">medium</string>
+    <string name="lower">lower</string>
+    <string name="low">low</string>
+    <string name="very_low">very low</string>
+    <string name="extra_low">extra low</string>
+    <string name="operation_level_setting">Operational level</string>
+    <string name="operation_level_setting_details">Some OS versions prevent using sensors when the screen is off; set the level that works for you</string>
+    <string name="operation_level_setting_title">Select operational level</string>
+    <string name="run_in_background">Normal (just try running in background)</string>
+    <string name="keep_screen_on">Screen on (keep screen dim)</string>
+    <string name="wake_up">Aggressive (wake up when I turn screen off)</string>
+
+    <string name="step_length_setting">Step length</string>
+    <string name="step_length_setting_details">For distance, speed &amp; calorie calculation</string>
+    <string name="step_length_setting_title">Enter your step length</string>
+
+    <string name="exercise_type_setting">Exercise type</string>
+    <string name="exercise_type_setting_title">Choose exercise type</string>
+    <string name="exercise_type_setting_details">For step length calculation</string>
+    <string name="exercise_type_running">running</string>
+    <string name="exercise_type_walking">walking</string>
+
+    <string name="quit">Quit</string>
+    
 
 </resources>
